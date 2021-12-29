@@ -90,7 +90,6 @@ else:
 
 
 
-drug_list.sort()
 
 # Implement multiselect dropdown menu for option selection (returns a list)
 
