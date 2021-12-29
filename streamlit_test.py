@@ -27,8 +27,6 @@ st.title('Multilayer Network Visualizations of Relations in My Support Network')
 # Define list of selection options and sort alphabetically
 relations = ['romantic partner','friends','colleague']
 
-drug_list.sort()
-
 # Implement multiselect dropdown menu for option selection (returns a list)
 selected_drugs = st.multiselect('Select relations(s) to visualize', relations)
 
