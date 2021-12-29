@@ -1,0 +1,16 @@
+ent_1,ent_2,relation_type
+Aske,Jacob,colleague
+Klara,Marcus,colleague
+Mette,Julius,colleague
+Ida,Mette,colleague
+Ida,Julius,colleague
+Asta,Marcus,friends
+Asta,Valdemar,friends
+Marcus,Aske,friends
+Marcus,Valdemar,friends
+Emma,Klara,friends
+Emma,Mette,friends
+Jacob,Emma,romantic_partner
+Aske,Emilie,romantic_partner
+Filip,Klara,romantic_partner
+Mads,Mette,romantic_partner
