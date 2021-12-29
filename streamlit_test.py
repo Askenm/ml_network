@@ -22,12 +22,9 @@ def map_edge_color(relation):
 df_interact = pd.read_csv('data/relations.csv')
 
 # Set header title
-st.title('Network Graph Visualization of Drug-Drug Interactions')
+st.title('Multilayer Network Visualizations of Relations in My Support Network')
 
 # Define list of selection options and sort alphabetically
-drug_list = ['Metformin', 'Glipizide', 'Lisinopril', 'Simvastatin',
-            'Warfarin', 'Aspirin', 'Losartan', 'Ibuprofen']
-
 relations = ['romantic partner','friends','colleague']
 
 drug_list.sort()
