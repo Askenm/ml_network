@@ -71,7 +71,7 @@ else:
                         spring_strength=0.10,
                         damping=0.95
                        )
-
+    drug_net.set_edge_smooth('dynamic')
     # Save and read graph as HTML file (on Streamlit Sharing)
     try:
         path = '/tmp'
