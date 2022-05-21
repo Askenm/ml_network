@@ -1,6 +1,8 @@
 ent_1,ent_2,relation_type
 Aske,Jacob,colleague
+Aske,Jacob,friends
 Klara,Marcus,colleague
+Klara,Marcus,friends
 Mette,Julius,colleague
 Ida,Mette,colleague
 Ida,Julius,colleague
@@ -10,6 +12,7 @@ Marcus,Aske,friends
 Marcus,Valdemar,friends
 Emma,Klara,friends
 Emma,Mette,friends
+Klara,Emilie,friends
 Jacob,Emma,romantic_partner
 Aske,Emilie,romantic_partner
 Filip,Klara,romantic_partner
